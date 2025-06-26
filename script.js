@@ -33,7 +33,7 @@ const data = [
     word: 'wisdom',
     prompt: 'They say ___ comes with age.',
     answer: 'wisdom',
-    hint: 'Knowing what is right through life experience.'
+    hint: 'Lessons learned from life.'
   },
   {
     word: 'retired',
@@ -51,7 +51,7 @@ const data = [
     word: 'shared',
     prompt: 'We have ___ many life stories together.',
     answer: 'shared',
-    hint: 'We told each other personal memories.'
+    hint: 'We told each other memories.'
   },
   {
     word: 'adulthood',
